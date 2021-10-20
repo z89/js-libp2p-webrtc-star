@@ -59,7 +59,7 @@
     "libp2p-webrtc-peer": "^10.0.1",
     "mafmt": "^10.0.0",
     "multiaddr": "^10.0.0",
-    "p-defer": "^3.0.0",
+    "p-defer": "^4.0.0",
     "peer-id": "^0.15.0",
     "socket.io-client": "^4.1.2",
     "stream-to-it": "^0.2.2"
