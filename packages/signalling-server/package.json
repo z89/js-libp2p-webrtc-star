@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "@hapi/hapi": "^20.0.0",
-    "@hapi/inert": "^6.0.3",
+    "@hapi/inert": "^7.0.0",
     "debug": "^4.2.0",
     "menoetius": "0.0.3",
     "minimist": "^1.2.5",
